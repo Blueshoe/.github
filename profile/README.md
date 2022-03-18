@@ -1,8 +1,15 @@
-# Hi. 👋 We are [Blueshoe](https://blueshoe.de).
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Blueshoe/.github/main/blueshoe1.png" width="300">
+</p>
 
-We are the cloud-native development company. Since 2014, we are highly focused on working with Python, Django, software containers and Kubernetes. 🚀
+# Hi. 👋 We are [Blueshoe](https://blueshoe.de).   
 
-![Unikube-group-photo](https://unikube.io/docs/img/Unikube-group-photo.jpg)   
+We are a cloud-native development company. Since 2014, we are highly focused on working with Python, Django, software containers and Kubernetes. 🚀
+
+<p align="center">
+  <img src="https://unikube.io/docs/img/Unikube-group-photo.jpg">
+</p>
+
 You want to become member of the team? Check out our [open job positions](https://www.blueshoe.de/jobs/).
 
 ## Our open-source projects 💡
