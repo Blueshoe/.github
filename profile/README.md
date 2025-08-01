@@ -2,24 +2,20 @@
   <img src="https://raw.githubusercontent.com/Blueshoe/.github/main/blueshoe1.png" width="300">
 </p>
 
-# Hi. 👋 We are [Blueshoe](https://blueshoe.de).   
+# Hi. 👋 We are [Blueshoe](https://blueshoe.io).   
 
 We are a cloud-native development company. Since 2014, we are highly focused on working with Python, Django, software containers and Kubernetes. 🚀
-
-<p align="center">
-  <img src="https://unikube.io/docs/img/Unikube-group-photo.jpg">
-</p>
 
 You want to become member of the team? Check out our [open job positions](https://www.blueshoe.de/jobs/).
 
 ## Our open-source projects 💡
 
 You can find our open-source products here:
-- [Unikube](https://unikube.io): The worlds most convenient cloud-native development platform for teams working with Kubernetes. The development happens [at this place](https://github.com/unikubehq/).
-
 - [Gefyra](https://gefyra.dev): A standalone tool to write and debug code directly in Kubernetes. For the code [go here](https://github.com/gefyrahq/gefyra).
 
 - [Django-Hurricane](https://django-hurricane.io): A Kubernetes-native stack specifically created for Django. Make Django run like a hurricane in Kubernetes - [the code is here](https://github.com/django-hurricane/).
+
+- [pytest-kubernetes](https://github.com/Blueshoe/pytest-kubernetes/): Setup k8s cluster + workloads within pytest.
 
 - There are a couple of other projects under this organization
 
